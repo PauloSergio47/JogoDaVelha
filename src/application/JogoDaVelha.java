@@ -63,7 +63,6 @@ public class JogoDaVelha {
                 scanner.next(); // Limpar o buffer do scanner
             }
         }
-        //scanner.close();
     }
 
     public static boolean verificarVencedor() {
